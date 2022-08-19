@@ -10,6 +10,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump -s 0.250000 0.990000 1.190000 C:\\Users\\larle\\Desktop\\LeoBuild\\Arroway Fabrics\\FullRes\\fabric-001_basket-weave-100x100cm_n.png
-map_Kd -s 0.250000 0.990000 1.190000 C:\\Users\\larle\\Desktop\\LeoBuild\\Arroway Fabrics\\FullRes\\fabric-001_basket-weave-100x100cm_b.png
-map_Ks -s 0.250000 0.990000 1.190000 C:\\Users\\larle\\Desktop\\LeoBuild\\Arroway Fabrics\\FullRes\\fabric-001_basket-weave-100x100cm_s.png
+map_Bump -s 0.250000 0.990000 1.190000 https://raw.githubusercontent.com/leonxlar/colorfield/master/darkDSP.jpg
+map_Kd -s 0.250000 0.990000 1.190000 https://raw.githubusercontent.com/leonxlar/colorfield/master/darkDSP.jpg
+map_Ks -s 0.250000 0.990000 1.190000 https://raw.githubusercontent.com/leonxlar/colorfield/master/darkDSP.jpg
